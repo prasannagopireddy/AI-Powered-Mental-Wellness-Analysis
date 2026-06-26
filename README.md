@@ -6,7 +6,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange?logo=pytorch)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)
 ![Accuracy](https://img.shields.io/badge/Test%20Accuracy-82.89%25-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
