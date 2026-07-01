@@ -59,7 +59,7 @@ Evaluated on a held-out 20% test set (1,122 samples):
 ```
 mental-health-disorder-detection/
 │
-├── 📓 mental_health_codex.ipynb     # Full project notebook (EDA + training + evaluation)
+├── 📓 mental_health_code.ipynb     # Full project notebook (EDA + training + evaluation)
 │
 ├── 📄 preprocess.py                 # Data cleaning, label encoding, train/test split
 ├── 📄 train.py                      # DistilBERT fine-tuning with early stopping
@@ -106,7 +106,7 @@ Raw Reddit CSV
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/prasannagopireddy/mental-health-disorder-detection.git
+git clone https://github.com/prasannagopireddy/AI-Powered-Mental-Wellness-Analysis.git
 cd mental-health-disorder-detection
 ```
 
