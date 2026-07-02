@@ -241,6 +241,13 @@ SRKR Engineering College
 
 ---
 
+ 
+## 📄 License
+ 
+This project is licensed under the MIT License.
+ 
+---
+
 ## 📚 References
 
 - Sanh, V. et al. (2019). *DistilBERT, a distilled version of BERT.* [arXiv:1910.01108](https://arxiv.org/abs/1910.01108)
